@@ -35,7 +35,7 @@
   "dependencies": {
     "commander": "^13.1.0",
     "jimp": "1.6.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^5.5.0",
     "@clack/prompts": "^0.10.0",
     "@ui-tars/operator-nut-js": "workspace:*",
     "@ui-tars/operator-adb": "workspace:*",
@@ -47,6 +47,6 @@
     "@common/configs": "workspace:*",
     "@types/js-yaml": "^4.0.9",
     "typescript": "^5.7.2",
-    "vitest": "^3.0.2"
+    "vitest": "^5.1.0"
   }
 }
