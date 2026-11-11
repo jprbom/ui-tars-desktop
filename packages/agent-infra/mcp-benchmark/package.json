@@ -16,7 +16,7 @@
     "benchmark": "vitest bench --run --silent"
   },
   "devDependencies": {
-    "@modelcontextprotocol/sdk": "~1.15.1",
+    "@modelcontextprotocol/sdk": "~1.32.0",
     "mcp-proxy": "^5.4.0",
     "supergateway": "^3.4.0",
     "get-port": "^7.1.0",
@@ -26,7 +26,7 @@
     "@agent-infra/mcp-server-filesystem": "workspace:*",
     "@agent-infra/browser-use": "workspace:*",
     "tsx": "^4.19.3",
-    "vitest": "^3.0.7",
+    "vitest": "^5.1.0",
     "@types/node": "^22",
     "typescript": "^5.7.3"
   }

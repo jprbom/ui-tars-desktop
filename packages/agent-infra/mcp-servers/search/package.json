@@ -30,9 +30,9 @@
   },
   "dependencies": {
     "@agent-infra/search": "workspace:*",
-    "@modelcontextprotocol/sdk": "~1.15.1",
+    "@modelcontextprotocol/sdk": "~1.32.0",
     "commander": "^13.1.0",
-    "zod": "^3.23.8",
+    "zod": "^4.6.6",
     "zod-to-json-schema": "^3.23.5"
   },
   "devDependencies": {
@@ -41,7 +41,7 @@
     "tsx": "^4.19.3",
     "@rslib/core": "0.10.0",
     "shx": "^0.3.4",
-    "vitest": "^3.0.7",
+    "vitest": "^5.1.0",
     "@types/node": "^20.11.24",
     "typescript": "^5.7.3"
   }

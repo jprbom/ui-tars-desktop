@@ -34,11 +34,11 @@
   },
   "dependencies": {
     "@agent-infra/mcp-shared": "workspace:*",
-    "@modelcontextprotocol/sdk": "~1.15.1",
+    "@modelcontextprotocol/sdk": "~1.32.0",
     "glob": "^10.3.10",
-    "minimatch": "^9.0.0",
+    "minimatch": "^11.0.1",
     "uuid": "^11.1.0",
-    "zod": "^3.23.8"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@agent-infra/mcp-server-browser": "workspace:*",
@@ -49,6 +49,6 @@
     "openai": "^4.86.2",
     "tsx": "^4.19.3",
     "typescript": "^5.7.3",
-    "vitest": "^3.0.7"
+    "vitest": "^5.1.0"
   }
 }
